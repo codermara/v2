@@ -1,6 +1,6 @@
 <?php
 
-namespace NW;
+namespace NW\WebService\References\Operations\Notification;
 
 class TsReturnOperation extends ReferencesOperation {
     const TYPE_NEW = 'new';
